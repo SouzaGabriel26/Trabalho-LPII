@@ -23,7 +23,6 @@ public class Academia {
 
             verifica.verificaHorarios(); // pergunta e verifica o horario, adiciona mais 1 no escolhido (*)
 
-
             // não conseguimos fazer de outra forma
 
             while((verifica.primeiroHorario == 5) && (verifica.opt == 1)) {
